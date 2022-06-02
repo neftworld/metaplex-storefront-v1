@@ -1,3 +1,10 @@
+NB: Storefront v1 is DEPRECATED by Metaplex.  If you pick up this repo you are doing so at your own risk. To our knowledge it works but is offered with no warranty or promise of support whatsoever.
+
+This repo is mostly aimed at existing Storefront users who are looking for something to keep them going until Auction House - based Storefront v2 rolls out.
+
+If you are digging in here, then expect to get your hands dirty :D 
+
+
 Customizing and Deploying Metaplex-Auction-V1: (This store is configured for use with 9 decimal tokens, but can be configured for other decimals in step 3.a.)
 
 1.) Clone the github repo
